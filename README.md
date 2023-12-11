@@ -1,0 +1,2 @@
+# WatchingMovieInSchoolPC_ver1.0
+学校のパソコンでもyoutubeをみれます！ボックスに入れるのは動画のIDだけです
