@@ -6,3 +6,18 @@ body{
 input{
 	margin-bottom: 15px;
 }
+iframe{
+	border-radius: 10px;
+	border: #aaaacc solid 3px;
+	width: 1130;
+	height: 630;
+}
+.prohibition-caution{
+	padding: 20px;
+	border: #aaaacc solid 3px;
+	display: inline-block;
+	margin-top: 40px;
+}
+p{
+	margin: 20px;
+}
